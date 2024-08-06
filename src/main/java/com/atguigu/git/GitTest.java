@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello master-merge-conflict");
         System.out.println("hello hot-fix-merge-conflict");
         System.out.println("hello push-test");
+        System.out.println("hello pull-test");
     }
 }
